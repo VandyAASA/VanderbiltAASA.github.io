@@ -231,12 +231,12 @@ header p {
   color: #FFF;
 }
 #cd-team .cd-member-info {
-  height: 80px;
+  height: 50px;
   background: #FFF;
   text-align: center;
   font-family: "Droid Sans", sans-serif;
   font-weight: bold;
-  padding-top: 20px;
+  padding-top: 15px;
   border-radius: 0 0 .25em .25em;
 }
 #cd-team .cd-member-info span {
