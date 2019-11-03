@@ -1,4 +1,4 @@
-![aasa](https://raw.githubusercontent.com/maxengel99/maxengel99.github.io/master/img/aasa.png)
+![aasa](img/aasa.png)
 
 # Asian American Student Association Website
 
